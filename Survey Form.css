@@ -1,0 +1,51 @@
+h1, p {
+    text-align: center;
+    color: #381C17;
+  }
+  
+  h1  {
+    text-decoration-line: underline;
+  }
+  
+  label {
+    display: block;
+    margin: 0.5rem 0;
+  }
+  
+  fieldset  {
+    border: none;
+    margin: 2px auto;
+    padding: 10px 30px;
+  }
+  
+  body  {
+    font-family: tahoma, calibri;
+    background-image: url('https://codetheweb.blog/assets/img/posts/css-advanced-background-images/mountains.jpg');
+    background-position-x: center;
+    background-position-y: center;
+  }
+  
+  form  {
+    background-color: #FF896F;
+    border-radius: 25px;
+    padding: 10px 12px;
+    margin: 50px;
+  }
+  input[id="submit"]  {
+    padding: 8 50;
+    display: block;
+    margin: 1em auto;
+  }
+  
+  label {
+    color: #381C17;
+  }
+  
+  input[id="number"],input[id="email"], input[id="name"] {
+    height: 25px;
+  }
+  
+  select  {
+    height: 25px;
+  }
+  
